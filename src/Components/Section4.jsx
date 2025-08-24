@@ -18,7 +18,6 @@ const Section4 = () => {
         <img className='w-2/3' src= {double} alt="" />
        </div>
 
-
     </div>
   )
 }

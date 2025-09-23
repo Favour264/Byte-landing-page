@@ -1,5 +1,5 @@
 import React from 'react'
-import Navbar from './navbar'
+import Navbar from './Navbar';
 import '../index.css'; 
 import Section1 from './Section1';
 import Section2 from './Section2';

@@ -19,9 +19,7 @@ const Navbar = () => {
         <img src= {nig} alt="image" />
       </div>
      </nav>
-
-
-
+    
     </div>
   )
 }

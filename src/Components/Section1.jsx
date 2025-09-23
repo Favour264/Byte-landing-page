@@ -9,9 +9,9 @@ const Section1 = () => {
 
      <div className="bg-[#0D9733] mt-12 rounded-3xl relative pt-10 flex flex-col items-center m-auto h-[700px]">
 
-     <h1 className='font-bold text-white text-4xl '> <span className='ml-10'>  Never Queue Again!   </span><br />
+     <h1 className=' inform font-bold text-white text-4xl '> <span className='ml-10'>  Never Queue Again!   </span><br />
          Order For Gas & Petroleum <br /> 
-           <span className='ml-20'> With Ease. </span></h1>
+           <span className=''> With Ease. </span></h1>
            <p className=' text-white text-xl pt-5'> <span className='ml-5'> OEnergy App allows you to order cooking gas, petrol, kerosine from any </span> <br />
          <span> merchant around you conveniently and get it delivered within fifteen minute. </span> </p>
 
